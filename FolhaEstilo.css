@@ -1,0 +1,1520 @@
+@charset "UTF-8";
+
+body {
+	    background: url('Imagens/BLOODBORNE.jpg') center center no-repeat fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+     }
+
+a    {
+		background-color: rgba(128, 128, 128, 0.163);
+        color: rgba(243, 31, 20, 0.688);
+		
+     }
+
+p    {
+        color: rgb(222, 183, 183);
+     }
+
+h1   {
+        color: rgb(99, 98, 115);
+     }
+
+
+/*=============================================================*/
+			/*DRAGON BALL*/
+
+a.db:hover {
+        width: 200px;
+        height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration: none;
+ 	display: block;
+	background-image : url(Imagens/Capas-Animes/1-Dragonball/DB.jpg);
+ 	background-repeat: no-repeat;
+     }
+ 
+a.dbz:hover {
+ 	width: 180px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/1-Dragonball/DBZ.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.dbgt:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/1-Dragonball/DBGT.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.dbsuper:hover {
+ 	width: 180px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/1-Dragonball/DBSUPER.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+			   /*NARUTO*/
+
+a.naruto:hover {
+ 	width: 180px;
+ 	height: 600px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/2-Naruto/naruto.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.naruto2:hover {
+ 	width: 180px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/2-Naruto/naruto2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.boruto:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/2-Naruto/boruto.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                           /*ONE PIECE*/
+
+a.onepiece:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/3-One-Piece/onepiece.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                            /*FAIRY TAIL*/
+
+a.fairytail:hover {
+ 	width: 180px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/4-Fairy-Tail/fairytail.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                            /*BLEACH*/
+
+a.bleach:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/5-bleach/bleach.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*HIGH SCHOOL DXD*/
+
+a.hsdxd1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/6-High-School-Dxd/hsdxd1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.hsdxd2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/6-High-School-Dxd/hsdxd2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.hsdxd3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/6-High-School-Dxd/hsdxd3.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.hsdxd4:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/6-High-School-Dxd/hsdxd4.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                          /*DEATH NOTE*/
+
+a.dnote:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/7-Death-note/deathnote.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                     /*HIGHSCHOOL OF THE DEAD*/
+
+a.highdead:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/8-HighSchool-of-the-Dead/highdead3.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                            /*YU-GI-OH*/
+
+a.yugioh:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/9-yu-gi-oh/yugi.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.yugiohgx:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/9-yu-gi-oh/yugigx.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                         /*DEVIL MAY CRY*/
+
+a.dmcry:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/10-Devil-May-Cry/devil.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*SWORD ART ONLINE*/
+
+a.sao1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/11-Sword-art-online/sao1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.sao2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/11-Sword-art-online/sao2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.sao3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/11-Sword-art-online/sao3.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.sao4:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/11-Sword-art-online/sao4.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                          /*TOKYO GHOUL*/
+
+a.tokyo1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/12-Tokyo-Ghoul/ghoul1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.tokyo2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/12-Tokyo-Ghoul/ghoul2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.tokyore:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/12-Tokyo-Ghoul/ghoulre.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*NANATSU NO TAIZAI*/
+
+a.nanatsu1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/13-Nanatsu-no-Taizai/taizai1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.nanatsu2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/13-Nanatsu-no-Taizai/taizai2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.nanatsu3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/13-Nanatsu-no-Taizai/taizai3.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.nanatsu4:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/13-Nanatsu-no-Taizai/taizai4.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                    /*OS CAVALEIROS DO ZODIACO*/
+
+a.cavaleiros1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/14-Os-Cavaleiros-do-Zodiaco/zodiaco1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.cavaleiros2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/14-Os-Cavaleiros-do-Zodiaco/zodiaco2.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                         /*ZATCH BELL*/
+
+a.zatchbell:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/15-Zatch-Bell/bell.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                     /*FULLMETAL ALCHEMIST*/
+
+a.fullmetal1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/16-Fullmetal-Alchemist/metal1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.fullmetal2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/16-Fullmetal-Alchemist/metal2.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                      /*BOKU NO HERO ACADEMIA*/
+
+a.bnohero1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/17-Boku-no-Hero-Academia/hero1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.bnohero2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/17-Boku-no-Hero-Academia/hero2.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.bnohero3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/17-Boku-no-Hero-Academia/hero3.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.bnohero4:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/17-Boku-no-Hero-Academia/hero4.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*ONE PUNCH MAN*/
+
+a.onepunch1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/18-One-Punch-Man/opman1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.onepunch2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/18-One-Punch-Man/opman2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*ATTACK ON TITAN*/
+
+a.attack1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/19-Attack-on-Titan/titan1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.attack2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/19-Attack-on-Titan/titan2.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.attack3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/19-Attack-on-Titan/titan3.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*HUNTER X HUNTER*/
+
+a.hunter1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/20-Hunter-Hunter/hunter1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.hunter2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/20-Hunter-Hunter/hunter2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*SAMURAI X*/
+
+a.samuraix:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/21-Samurai-X/samuraix.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*YU YU HAKUSHO*/
+
+a.hakusho:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/22-Yuyu-hakusho/yuyu.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                          /*INUYASHA*/
+
+a.inuyasha1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/23-InuYasha/InuYasha1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.inuyasha2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/23-InuYasha/InuYasha2.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                            /*AVATAR*/
+
+a.avatar1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/24-Avatar/aang.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.avatar2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/24-Avatar/korra.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                           /*GINTAMA*/
+
+a.gintama:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/25-Gintama/gin.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                              /*MAGI*/
+
+a.magi1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/26-Magi/magi1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.magi2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/26-Magi/magi2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.magi3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/26-Magi/sinbad.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*GOLDEN BOY*/
+
+a.goldenboy:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/27-Goldenboy/goldenboy.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                           /*DORORO*/
+
+a.dororo:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/28-Dororo/dororo.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*BLACK CLOVER*/
+
+a.blackcl:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/29-Black-Clover/asta.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                         /*DR. STONE*/
+
+a.drstone1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/30-Dr-Stone/stone1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.drstone2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/30-Dr-Stone/stone2.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*HELLSING ULTIMATE*/
+
+a.hellsing:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/31-Hellsing-ultimate/alucard.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*KIMETSU NO YAIBA*/
+
+a.kimetsu:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/32-Demon-Slayer/kimetsu.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                            /*BTOOOM*/
+
+a.btooom:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/33-btooom/btoom.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*ANGEL OF DEATH*/
+
+a.angeldeath:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/34-Angel-of-Death/angel-death.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*PLUNDERER*/
+
+a.plunderer:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/35-Plunderer/plunderer.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*NORAGAMI*/
+
+a.noragami1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/36-Noragami/noragami1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.noragami2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/36-Noragami/noragami2.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                         /*TSUGUMOMO*/
+
+a.tsugomomo1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/37-Tsugumomo/tsugo1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.tsugomomo2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/37-Tsugumomo/tsugo2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*AKASHIC RECORDS*/
+
+a.akashic:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/38-Akashic-Records/records.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*AFRO SAMURAI*/
+
+a.afrosamurai:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/39-Afro-Samurai/afro.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*COWBOY BEBOP*/
+
+a.cowboybebop:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/40-Cowboy-Bebop/cowboy.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*AKAME GA KILL*/
+
+a.akamegakill:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/41-Akame-ga-Kill/akame.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*DUNGEON NI DEAI*/
+
+a.dnideai1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/42-Dungeon-Ni-Deai/dungeo1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.dnideai2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/42-Dungeon-Ni-Deai/dungeo2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.dnideai3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/42-Dungeon-Ni-Deai/dungeo3.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*KILLING BITES*/
+
+a.killing:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/43-Killing-Bites/bites.png);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*AO NO EXORCIST*/
+
+a.bluexorcist1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/44-Blue-Exorcist/exorcist1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.bluexorcist2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/44-Blue-Exorcist/exorcist2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                    /*DARLING IN THE FRANXX*/
+
+a.darling:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/45-Darling-in-the-Franxx/franxx.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*JUJUTSU KAISEN*/
+
+a.jujutsu:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/46-Jujutsu-Kaisen/jujutsu.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                      /*YAKUSOKU NO NEVERLAND*/
+
+a.neverland1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/47-The-Promised-Neverland/proms1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.neverland2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/47-The-Promised-Neverland/proms2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*SK8 THE INFINITY*/
+
+a.sk8:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/48-Sk8-the-Infinity/sk8.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                        /*CASTLEVANIA*/
+
+a.castlevania1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/49-Castlevania/castle1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.castlevania2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/49-Castlevania/castle2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.castlevania3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/49-Castlevania/castle3.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.castlevania4:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/49-Castlevania/castle4.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                     /*KOUTETSUJOU NO KABANERI*/
+
+a.kabaneri:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/50-Koutetsujou-no-Kabaneri/kabaneri.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+              /*KAIFUKU JUTSUSHI NO YARINAOSHI*/
+
+a.kaifuku:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/51-Kaifuku-Jutsushi-no-Yarinaoshi/kaifuku.jpeg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*MOB PSYCHO 100*/
+
+a.mob1001:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/52-Mob-Psycho100/mob1.jpeg);
+	background-repeat: no-repeat;
+     }
+
+a.mob1002:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/52-Mob-Psycho100/mob2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*MUSHOKU TENSEI*/
+
+a.mushoku:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/53-Mushoku-Tensei/mushoku.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*VIOLET EVERGARDEN*/
+
+a.violet:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/54-Violet-Evergarden/violet.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*TENKUU SHINPAN*/
+
+a.tenkuu:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/55-Tenkuu-Shinpan/tenkuu.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+            /*KONO SUBARASHII SEKAI NI SHUKUFUKU WO!*/
+
+a.kono1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/56-Kono-Subarashii-Sekai-ni-Shukufuku-Wo!/kono1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.kono2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/56-Kono-Subarashii-Sekai-ni-Shukufuku-Wo!/kono2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*DOTA: DRAGON�S BLOOD*/
+
+a.dota:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/57-Dota/dota.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*KUROKO NO BASKET*/
+
+a.kuroko1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/58-Kuroko-no-Basket/kuroko1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.kuroko2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/58-Kuroko-no-Basket/kuroko2.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.kuroko3:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/58-Kuroko-no-Basket/kuroko3.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*YASUKE*/
+
+a.yasuke:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/59-Yasuke/yasuke.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*BEASTARS*/
+
+a.beastars1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/60-Beastars/beastars1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.beastars2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/60-Beastars/beastars2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*KENGAN ASHURA*/
+
+a.kengan1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/61-Kengan-Ashura/kenga1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.kengan2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/61-Kengan-Ashura/kenga2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*KAKEGURUI*/
+
+a.kakegurui1:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/62-Kakegurui/yumeko1.jpg);
+	background-repeat: no-repeat;
+     }
+
+a.kakegurui2:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/62-Kakegurui/yumeko2.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*FUMETSU NO ANATA E*/
+
+a.anata:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/63-Fumetsu-no-Anata-E/anata.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/*=============================================================*/
+                       /*TOKYO REVENGERS*/
+
+a.revengers:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/64-Tokyo-Revengers/manjiro.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+/**/
+/*=============================================================*/
+                       /*ANGEL OF DEATH*/
+
+a.angeldeath:hover {
+ 	width: 200px;
+ 	height: 300px;
+ 	color: rgba(0, 0, 0, 0);
+ 	font-weight: bold;
+ 	text-decoration:none;
+	display: block;
+	background-image : url(Imagens/Capas-Animes/34-Angel-of-Death/angel-death.jpg);
+	background-repeat: no-repeat;
+     }
+
+
+
+
