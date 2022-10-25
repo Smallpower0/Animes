@@ -1,11 +1,16 @@
 @charset "UTF-8";
 
+header {
+	text-align: left;
+	 }
+
 body {
 	    background: url('Imagens/BLOODBORNE.jpg') center center no-repeat fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+		text-align: center;
      }
 
 a    {
@@ -27,8 +32,8 @@ h1   {
 			/*DRAGON BALL*/
 
 a.db:hover {
-        width: 200px;
-        height: 300px;
+	background-position: center;
+    height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
  	text-decoration: none;
@@ -38,7 +43,7 @@ a.db:hover {
      }
  
 a.dbz:hover {
- 	width: 180px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -49,7 +54,7 @@ a.dbz:hover {
      }
 
 a.dbgt:hover {
- 	width: 200px;
+ 	background-position: center;;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -60,7 +65,7 @@ a.dbgt:hover {
      }
 
 a.dbsuper:hover {
- 	width: 180px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -75,7 +80,7 @@ a.dbsuper:hover {
 			   /*NARUTO*/
 
 a.naruto:hover {
- 	width: 180px;
+ 	background-position: center;
  	height: 600px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -86,7 +91,7 @@ a.naruto:hover {
      }
 
 a.naruto2:hover {
- 	width: 180px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -97,7 +102,7 @@ a.naruto2:hover {
      }
 
 a.boruto:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -112,7 +117,7 @@ a.boruto:hover {
                            /*ONE PIECE*/
 
 a.onepiece:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -127,7 +132,7 @@ a.onepiece:hover {
                             /*FAIRY TAIL*/
 
 a.fairytail:hover {
- 	width: 180px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -142,7 +147,7 @@ a.fairytail:hover {
                             /*BLEACH*/
 
 a.bleach:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -157,7 +162,7 @@ a.bleach:hover {
                        /*HIGH SCHOOL DXD*/
 
 a.hsdxd1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -168,7 +173,7 @@ a.hsdxd1:hover {
      }
 
 a.hsdxd2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -179,7 +184,7 @@ a.hsdxd2:hover {
      }
 
 a.hsdxd3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -190,7 +195,7 @@ a.hsdxd3:hover {
      }
 
 a.hsdxd4:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -205,7 +210,7 @@ a.hsdxd4:hover {
                           /*DEATH NOTE*/
 
 a.dnote:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -220,7 +225,7 @@ a.dnote:hover {
                      /*HIGHSCHOOL OF THE DEAD*/
 
 a.highdead:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -235,7 +240,7 @@ a.highdead:hover {
                             /*YU-GI-OH*/
 
 a.yugioh:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -246,7 +251,7 @@ a.yugioh:hover {
      }
 
 a.yugiohgx:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -261,7 +266,7 @@ a.yugiohgx:hover {
                          /*DEVIL MAY CRY*/
 
 a.dmcry:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -276,7 +281,7 @@ a.dmcry:hover {
                        /*SWORD ART ONLINE*/
 
 a.sao1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -287,7 +292,7 @@ a.sao1:hover {
      }
 
 a.sao2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -298,7 +303,7 @@ a.sao2:hover {
      }
 
 a.sao3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -309,7 +314,7 @@ a.sao3:hover {
      }
 
 a.sao4:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -324,7 +329,7 @@ a.sao4:hover {
                           /*TOKYO GHOUL*/
 
 a.tokyo1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -335,7 +340,7 @@ a.tokyo1:hover {
      }
 
 a.tokyo2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -346,7 +351,7 @@ a.tokyo2:hover {
      }
 
 a.tokyore:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -361,7 +366,7 @@ a.tokyore:hover {
                        /*NANATSU NO TAIZAI*/
 
 a.nanatsu1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -372,7 +377,7 @@ a.nanatsu1:hover {
      }
 
 a.nanatsu2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -383,7 +388,7 @@ a.nanatsu2:hover {
      }
 
 a.nanatsu3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -394,7 +399,7 @@ a.nanatsu3:hover {
      }
 
 a.nanatsu4:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -409,7 +414,7 @@ a.nanatsu4:hover {
                     /*OS CAVALEIROS DO ZODIACO*/
 
 a.cavaleiros1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -420,7 +425,7 @@ a.cavaleiros1:hover {
      }
 
 a.cavaleiros2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -435,7 +440,7 @@ a.cavaleiros2:hover {
                          /*ZATCH BELL*/
 
 a.zatchbell:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -450,7 +455,7 @@ a.zatchbell:hover {
                      /*FULLMETAL ALCHEMIST*/
 
 a.fullmetal1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -461,7 +466,7 @@ a.fullmetal1:hover {
      }
 
 a.fullmetal2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -476,7 +481,7 @@ a.fullmetal2:hover {
                       /*BOKU NO HERO ACADEMIA*/
 
 a.bnohero1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -487,7 +492,7 @@ a.bnohero1:hover {
      }
 
 a.bnohero2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -498,7 +503,7 @@ a.bnohero2:hover {
      }
 
 a.bnohero3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -509,7 +514,7 @@ a.bnohero3:hover {
      }
 
 a.bnohero4:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -524,7 +529,7 @@ a.bnohero4:hover {
                        /*ONE PUNCH MAN*/
 
 a.onepunch1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -535,7 +540,7 @@ a.onepunch1:hover {
      }
 
 a.onepunch2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -550,7 +555,7 @@ a.onepunch2:hover {
                        /*ATTACK ON TITAN*/
 
 a.attack1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -561,7 +566,7 @@ a.attack1:hover {
      }
 
 a.attack2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -572,7 +577,7 @@ a.attack2:hover {
      }
 
 a.attack3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -587,7 +592,7 @@ a.attack3:hover {
                        /*HUNTER X HUNTER*/
 
 a.hunter1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -598,7 +603,7 @@ a.hunter1:hover {
      }
 
 a.hunter2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -613,7 +618,7 @@ a.hunter2:hover {
                         /*SAMURAI X*/
 
 a.samuraix:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -628,7 +633,7 @@ a.samuraix:hover {
                         /*YU YU HAKUSHO*/
 
 a.hakusho:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -643,7 +648,7 @@ a.hakusho:hover {
                           /*INUYASHA*/
 
 a.inuyasha1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -654,7 +659,7 @@ a.inuyasha1:hover {
      }
 
 a.inuyasha2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -669,7 +674,7 @@ a.inuyasha2:hover {
                             /*AVATAR*/
 
 a.avatar1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -680,7 +685,7 @@ a.avatar1:hover {
      }
 
 a.avatar2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -695,7 +700,7 @@ a.avatar2:hover {
                            /*GINTAMA*/
 
 a.gintama:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -710,7 +715,7 @@ a.gintama:hover {
                               /*MAGI*/
 
 a.magi1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -721,7 +726,7 @@ a.magi1:hover {
      }
 
 a.magi2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -732,7 +737,7 @@ a.magi2:hover {
      }
 
 a.magi3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -747,7 +752,7 @@ a.magi3:hover {
                         /*GOLDEN BOY*/
 
 a.goldenboy:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -762,7 +767,7 @@ a.goldenboy:hover {
                            /*DORORO*/
 
 a.dororo:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -777,7 +782,7 @@ a.dororo:hover {
                         /*BLACK CLOVER*/
 
 a.blackcl:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -792,7 +797,7 @@ a.blackcl:hover {
                          /*DR. STONE*/
 
 a.drstone1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -803,7 +808,7 @@ a.drstone1:hover {
      }
 
 a.drstone2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -818,7 +823,7 @@ a.drstone2:hover {
                        /*HELLSING ULTIMATE*/
 
 a.hellsing:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -833,7 +838,7 @@ a.hellsing:hover {
                         /*KIMETSU NO YAIBA*/
 
 a.kimetsu:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -848,7 +853,7 @@ a.kimetsu:hover {
                             /*BTOOOM*/
 
 a.btooom:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -863,7 +868,7 @@ a.btooom:hover {
                        /*ANGEL OF DEATH*/
 
 a.angeldeath:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -878,7 +883,7 @@ a.angeldeath:hover {
                         /*PLUNDERER*/
 
 a.plunderer:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -893,7 +898,7 @@ a.plunderer:hover {
                         /*NORAGAMI*/
 
 a.noragami1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -904,7 +909,7 @@ a.noragami1:hover {
      }
 
 a.noragami2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -919,7 +924,7 @@ a.noragami2:hover {
                          /*TSUGUMOMO*/
 
 a.tsugomomo1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -930,7 +935,7 @@ a.tsugomomo1:hover {
      }
 
 a.tsugomomo2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -945,7 +950,7 @@ a.tsugomomo2:hover {
                        /*AKASHIC RECORDS*/
 
 a.akashic:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -960,7 +965,7 @@ a.akashic:hover {
                        /*AFRO SAMURAI*/
 
 a.afrosamurai:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -975,7 +980,7 @@ a.afrosamurai:hover {
                         /*COWBOY BEBOP*/
 
 a.cowboybebop:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -990,7 +995,7 @@ a.cowboybebop:hover {
                        /*AKAME GA KILL*/
 
 a.akamegakill:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1005,7 +1010,7 @@ a.akamegakill:hover {
                        /*DUNGEON NI DEAI*/
 
 a.dnideai1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1016,7 +1021,7 @@ a.dnideai1:hover {
      }
 
 a.dnideai2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1027,7 +1032,7 @@ a.dnideai2:hover {
      }
 
 a.dnideai3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1042,7 +1047,7 @@ a.dnideai3:hover {
                        /*KILLING BITES*/
 
 a.killing:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1057,7 +1062,7 @@ a.killing:hover {
                        /*AO NO EXORCIST*/
 
 a.bluexorcist1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1068,7 +1073,7 @@ a.bluexorcist1:hover {
      }
 
 a.bluexorcist2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1083,7 +1088,7 @@ a.bluexorcist2:hover {
                     /*DARLING IN THE FRANXX*/
 
 a.darling:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1098,7 +1103,7 @@ a.darling:hover {
                        /*JUJUTSU KAISEN*/
 
 a.jujutsu:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1113,7 +1118,7 @@ a.jujutsu:hover {
                       /*YAKUSOKU NO NEVERLAND*/
 
 a.neverland1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1124,7 +1129,7 @@ a.neverland1:hover {
      }
 
 a.neverland2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1139,7 +1144,7 @@ a.neverland2:hover {
                        /*SK8 THE INFINITY*/
 
 a.sk8:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1154,7 +1159,7 @@ a.sk8:hover {
                         /*CASTLEVANIA*/
 
 a.castlevania1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1165,7 +1170,7 @@ a.castlevania1:hover {
      }
 
 a.castlevania2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1176,7 +1181,7 @@ a.castlevania2:hover {
      }
 
 a.castlevania3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1187,7 +1192,7 @@ a.castlevania3:hover {
      }
 
 a.castlevania4:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1202,7 +1207,7 @@ a.castlevania4:hover {
                      /*KOUTETSUJOU NO KABANERI*/
 
 a.kabaneri:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1217,7 +1222,7 @@ a.kabaneri:hover {
               /*KAIFUKU JUTSUSHI NO YARINAOSHI*/
 
 a.kaifuku:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1232,7 +1237,7 @@ a.kaifuku:hover {
                        /*MOB PSYCHO 100*/
 
 a.mob1001:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1243,7 +1248,7 @@ a.mob1001:hover {
      }
 
 a.mob1002:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1258,7 +1263,7 @@ a.mob1002:hover {
                        /*MUSHOKU TENSEI*/
 
 a.mushoku:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1273,7 +1278,7 @@ a.mushoku:hover {
                        /*VIOLET EVERGARDEN*/
 
 a.violet:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1288,7 +1293,7 @@ a.violet:hover {
                        /*TENKUU SHINPAN*/
 
 a.tenkuu:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1303,7 +1308,7 @@ a.tenkuu:hover {
             /*KONO SUBARASHII SEKAI NI SHUKUFUKU WO!*/
 
 a.kono1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1314,7 +1319,7 @@ a.kono1:hover {
      }
 
 a.kono2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1329,7 +1334,7 @@ a.kono2:hover {
                        /*DOTA: DRAGON�S BLOOD*/
 
 a.dota:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1344,7 +1349,7 @@ a.dota:hover {
                        /*KUROKO NO BASKET*/
 
 a.kuroko1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1355,7 +1360,7 @@ a.kuroko1:hover {
      }
 
 a.kuroko2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1366,7 +1371,7 @@ a.kuroko2:hover {
      }
 
 a.kuroko3:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1381,7 +1386,7 @@ a.kuroko3:hover {
                        /*YASUKE*/
 
 a.yasuke:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1396,7 +1401,7 @@ a.yasuke:hover {
                        /*BEASTARS*/
 
 a.beastars1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1407,7 +1412,7 @@ a.beastars1:hover {
      }
 
 a.beastars2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1422,7 +1427,7 @@ a.beastars2:hover {
                        /*KENGAN ASHURA*/
 
 a.kengan1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1433,7 +1438,7 @@ a.kengan1:hover {
      }
 
 a.kengan2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1448,7 +1453,7 @@ a.kengan2:hover {
                        /*KAKEGURUI*/
 
 a.kakegurui1:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1459,7 +1464,7 @@ a.kakegurui1:hover {
      }
 
 a.kakegurui2:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1474,7 +1479,7 @@ a.kakegurui2:hover {
                        /*FUMETSU NO ANATA E*/
 
 a.anata:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1489,7 +1494,7 @@ a.anata:hover {
                        /*TOKYO REVENGERS*/
 
 a.revengers:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
@@ -1505,7 +1510,7 @@ a.revengers:hover {
                        /*ANGEL OF DEATH*/
 
 a.angeldeath:hover {
- 	width: 200px;
+ 	background-position: center;
  	height: 300px;
  	color: rgba(0, 0, 0, 0);
  	font-weight: bold;
